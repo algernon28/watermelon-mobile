@@ -1,0 +1,8 @@
+{
+  "platformName": "Android",
+  "appium:platformVersion": "10.0",
+  "appium:automationName": "UiAutomator2",
+  "appium:deviceName": "emu-5554",
+  "appium:deviceOrientation": "portrait",
+  "appium:avd": "Pixel_4_XL_API_30"
+}

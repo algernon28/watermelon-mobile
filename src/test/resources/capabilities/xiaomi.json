@@ -1,0 +1,13 @@
+{
+  "appium:platformVersion": "12.0",
+  "platformName": "Android",
+  "appium:app": "storage:filename=5_8_9.apk",
+  "appium:automationName": "UiAutomator2",
+  "appium:deviceName": "Google Pixel 4 GoogleAPI Emulator",
+  "appium:newCommandTimeout": "120",
+  "sauce:options": {
+    "build": "666",
+    "name": "Hype",
+    "appiumVersion": "1.22.1"
+  }
+}

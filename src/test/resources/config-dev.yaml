@@ -1,0 +1,15 @@
+reporting:
+  #Use 'SUCCESS' to always take screenshot after each step, 'FAIL' to take them only after fails
+  screenshotLevel: ALWAYS
+appiumServer:
+  protocol: http
+  host: 127.0.0.1
+  path: /wd/hub
+  port: 4723
+
+  #appiumServer:
+  #protocol: https
+  #host: oauth-amissinato-e9d10:fda702d3-0f5c-4368-91d5-47c27d61c8ae@ondemand.eu-central-1.saucelabs.com
+  #path: /wd/hub
+  #port: 443
+# http://192.168.1.203:4444

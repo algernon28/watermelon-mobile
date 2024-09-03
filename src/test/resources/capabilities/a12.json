@@ -1,0 +1,10 @@
+{
+  "platformName": "Android",
+  "appium:platformVersion": "12.0",
+  "appium:automationName": "UiAutomator2",
+  "appium:orientation": "PORTRAIT",
+  "appium:appWaitActivity": "it.hype.app.ui.dev.DevToolsActivity",
+  "browserName": "Chrome",
+  "appium:avd": "A11",
+  "newCommandTimeout": 1000
+}

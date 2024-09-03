@@ -1,0 +1,9 @@
+{
+  "browserName": "Safari",
+  "platformName": "iOS",
+  "appium:deviceName": "iPhone.*",
+  "sauce:options": {
+    "build": "<your build id>",
+    "name": "<your test name>"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "platformName": "Android",
+  "appium:platformVersion": "12.0",
+  "appium:automationName": "UiAutomator2",
+  "appium:orientation": "PORTRAIT",
+  "appium:udid": "R58T80LV3JY",
+  "appium:app": "D:/apps/app-google-customer-debug.apk",
+  "appium:autoGrantPermissions": true
+}

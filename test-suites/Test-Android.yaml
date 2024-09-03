@@ -1,0 +1,10 @@
+name: Test-method Suite
+tests:
+-  name: Android
+   parameters:
+      platform: Android
+      caps: SA13.json
+      appId: it.hype.app
+      appURL: https://hypeapp.page.link/tqgE
+   classes:
+   - com.hype.mobile.steps.runners.AndroidRunner
